@@ -2,17 +2,17 @@
 _____________________________________________________________________________________________________________________________________________
 
 Full Stack Web Developer
-
 _____________________________________________________________________________________________________________________________________________
 
-🌱 I’m currently learning to become a Full Stack Web Developer
+I am currently enrolled in Columbia Engineering Boot Camp to become a Full Stack Web Developer which has given me the foundation and tools to be both a Frontend and Backend Developer. 
 
-⚡ Fun fact: I am a
+The foundation, technical, and performance fundamentals I am developing while reinforcing newly developed skills and technologies include HTML5, JavaScript, CSS, JQuery, Express.js, React.js, Node.js, responsive web design and applications, agile methodology, computer science, database theory, MongoDB, and MySQL. 
+
+⚡ Fun fact: I am a professional Chef 
 
 How to reach me: 
 📫 ac.tendo67@gmail.com 
 
-![image](https://user-images.githubusercontent.com/102841726/183479298-d6eca78f-4265-4b68-91e3-dbd992318366.png)
 https://www.linkedin.com/in/alejandro-cortez1967/
 
 <!--
