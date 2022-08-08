@@ -12,6 +12,8 @@ The foundation, technical, and performance fundamentals I am developing while re
 
 ⚡I am a professional Chef, Enthustiatic Travelor, Melomaniac, collector of the Polo Bear clothing attire from Ralph Lauren, Anime Otaku.
 
+_________________________________________________________________________________________________________________________________________________
+
 How to reach me: 
 
 📫 ac.tendo67@gmail.com 
