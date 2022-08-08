@@ -4,9 +4,9 @@ ________________________________________________________________________________
 Full Stack Web Developer
 _____________________________________________________________________________________________________________________________________________
 
-I am currently enrolled in Columbia Engineering Boot Camp to become a Full Stack Web Developer which has given me the foundation and tools to be both a Frontend and Backend Developer. 
+I am currently enrolled in Columbia Engineering Boot Camp to become a Full Stack Web Developer which has given me the foundation and tools to be both a Frontend and Backend Developer. I am also certified as an Amazon Web Service Cloud Practitioner which allows me to work with the AWS Cloud Management Console to access a broad collection of resources and services while managing information to perform AWS related tasks.
 
-The foundation, technical, and performance fundamentals I am developing while reinforcing newly developed skills and technologies include HTML5, JavaScript, CSS, JQuery, Express.js, React.js, Node.js, responsive web design and applications, agile methodology, computer science, database theory, MongoDB, and MySQL. 
+I am developing while reinforcing newly developed skills and technologies which include HTML5, JavaScript, CSS, JQuery, Express.js, React.js, Node.js, responsive web design and applications, agile methodology, computer science, database theory, MongoDB, and MySQL. 
 
 🌍 Born and raised in NYC
 
@@ -22,15 +22,7 @@ https://www.linkedin.com/in/alejandro-cortez1967/
 
 ______________________________________________________________________________________________________________________________________________
 
-Skills
 
-FRONTEND
-
-HTML5 React JQuery CSS3 TailwindCSS Bootstrap
-
-BACKEND and DATABASE
-
-JavaScript NodeJS Express MongoDB MySQL Heroku
 
 <!--
 **Muzan67/Muzan67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
